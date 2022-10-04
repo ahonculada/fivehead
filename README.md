@@ -20,18 +20,8 @@
 yarn create next-app --example https://github.com/trpc/trpc --example-path examples/next-prisma-starter fivehead
 cd fivehead
 yarn
-yarn dx
+yarn dev
 ```
-
-**npm:**
-
-```bash
-npx create-next-app --example https://github.com/trpc/trpc --example-path examples/next-prisma-starter fivehead
-cd fivehead
-yarn
-yarn dx
-```
-
 
 ### Requirements
 
@@ -96,5 +86,3 @@ Go to [dashboard.render.com/blueprints](https://dashboard.render.com/blueprints)
 </table>
 
 ---
-
-Created by [@alexdotjs](https://twitter.com/alexdotjs).
